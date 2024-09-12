@@ -1,4 +1,4 @@
-BVI-AOM Database
+BVI-AOM DATABASE
 ================
 A Training Database for Video Compression Research Adapted to Alliance for Open Media's (AOM) Needs
 
