@@ -26,10 +26,10 @@ The experimental results demonstrate that when used as a training set to optimiz
 
 CITATION
 ====================
-@article{nawala2024bvi,<br />
+@InProceedings{nawala2024bvi,<br />
   title={BVI-AOM: A New Training Dataset for Deep Video Compression Optimization},  
   author={Nawa{\l}a, Jakub and Jiang, Yuxuan and Zhang, Fan and Zhu, Xiaoqing and Sole, Joel and Bull, David},<br />
-  journal={arXiv preprint arXiv:2408.03265},<br />
+  booktitle={IEEE VCIP},<br />
   year={2024}<br />
 }
 
