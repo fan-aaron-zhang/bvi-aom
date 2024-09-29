@@ -21,7 +21,7 @@ Performance
 ====================
 The experimental results demonstrate that when used as a training set to optimize two popular network architectures for two different coding tools, the proposed dataset leads to additional bitrate savings of up to 0.29 and 2.98 percentage points in terms of PSNR-Y and VMAF, respectively, compared to an existing training dataset, BVI-DVC, which has been widely used for deep video coding.
 
-![](BDRATE.jpg)
+![](BDRATE.svg)
 
 
 CITATION
