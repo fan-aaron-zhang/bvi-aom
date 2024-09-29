@@ -11,6 +11,18 @@ Jakub Nawała<sup>1</sup>, Yuxuan Jiang<sup>1</sup>, Fan Zhang<sup>1</sup>, Xiao
 <sup>1</sup>University of Bristol, UK  
 <sup>2</sup>Netflix Inc., US
 
+ABOUT
+====================
+BVI-AOM is a new training dataset, which contains 956 uncompressed sequences at various resolutions from 270p to 2160p, covering a wide range of content and texture types. The dataset comes with more flexible licensing terms and offers competitive performance when used as a training set for optimizing deep video coding tools. 
+
+![](BVIAOM.jpg)
+
+Performance
+====================
+The experimental results demonstrate that when used as a training set to optimize two popular network architectures for two different coding tools, the proposed dataset leads to additional bitrate savings of up to 0.29 and 2.98 percentage points in terms of PSNR-Y and VMAF, respectively, compared to an existing training dataset, BVI-DVC, which has been widely used for deep video coding.
+![](BVIAOM.jpg)
+
+
 CITATION
 ====================
 @article{nawala2024bvi,<br />
